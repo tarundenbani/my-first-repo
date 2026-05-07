@@ -1,1 +1,2 @@
-Test
+Test // From Local To Remote
+Test // From Remote To Local
