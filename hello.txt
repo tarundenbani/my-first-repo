@@ -1,4 +1,4 @@
 Hello
 How Are You Brother
 
-Hi I am Making Change sto the Feature Branch.
+Hi I am Making Changes to the Feature Branch.
