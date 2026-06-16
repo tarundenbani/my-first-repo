@@ -1,6 +1,0 @@
-Hello
-How Are You Brother
-
-Hi I am Making Change sto the Feature Branch.
-
-I am making changes in Feature-1 Branch.
